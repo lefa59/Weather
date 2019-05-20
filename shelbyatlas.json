@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "cloudD.png",
+	"frame": {"x":1252,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "cloudN.png",
+	"frame": {"x":1552,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "lightning0001.png",
+	"frame": {"x":714,"y":0,"w":238,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":250},
+	"sourceSize": {"w":238,"h":250}
+},
+{
+	"filename": "lightning0002.png",
+	"frame": {"x":257,"y":0,"w":219,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":248},
+	"sourceSize": {"w":219,"h":248}
+},
+{
+	"filename": "mist.png",
+	"frame": {"x":952,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "moon.png",
+	"frame": {"x":57,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "rain.png",
+	"frame": {"x":0,"y":0,"w":57,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":119},
+	"sourceSize": {"w":57,"h":119}
+},
+{
+	"filename": "sky.png",
+	"frame": {"x":0,"y":300,"w":1800,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":199},
+	"sourceSize": {"w":1800,"h":199}
+},
+{
+	"filename": "snowflake.png",
+	"frame": {"x":476,"y":0,"w":238,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":207},
+	"sourceSize": {"w":238,"h":207}
+},
+{
+	"filename": "Sun.png",
+	"frame": {"x":157,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "shelbyatlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1852,"h":499},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e931401d0a4979cf1ef86c4c061e580:0282b6ac8808d491fede783b15963f1c:1b114c0d69626ee9515d4c530707b48b$"
+}
+}
